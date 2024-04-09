@@ -1,0 +1,1 @@
+./dist/proot -S . /bin/bash --login
